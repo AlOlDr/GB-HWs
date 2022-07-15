@@ -1,0 +1,15 @@
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\bin\Debug\net6.0\Exercise2.exe
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\bin\Debug\net6.0\Exercise2.deps.json
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\bin\Debug\net6.0\Exercise2.runtimeconfig.json
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\bin\Debug\net6.0\Exercise2.dll
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\bin\Debug\net6.0\Exercise2.pdb
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.csproj.AssemblyReference.cache
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfoInputs.cache
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfo.cs
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.dll
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\refint\Exercise2.dll
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.pdb
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\Exercise2.genruntimeconfig.cache
+D:\Рабочий стол\Мое обучение\VS\seminar1 c# HW\Exercise2\obj\Debug\net6.0\ref\Exercise2.dll
